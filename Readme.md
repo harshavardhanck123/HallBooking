@@ -37,7 +37,7 @@ The server will be running on https://127.0.0.1/3001.
 The server will start on `http://127.0.0.1:3001`. You can use a tool like Postman or curl to interact with the API endpoints.
 
 ## API Endpoints
-
+#### postman documentation
 ### Create a Room
 
 - **URL:** `/rooms`
